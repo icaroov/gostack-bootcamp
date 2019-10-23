@@ -6,6 +6,11 @@
   :rocket: Bootcamp by Rocketseat
 </h4>
 
+## :bulb: Desafios
+
+- [Desafio 01](https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs) :heavy_check_mark:
+
+
 ---
 
 Done. :wave:
