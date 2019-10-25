@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#delicinha" src=".github/gostack-bootcamp-9.png" width="250px" />
+    <img alt="GoStack" src=".github/gostack-bootcamp-9.png" width="200px" />
 </h1>
 
 <h4 align="center">
