@@ -9,8 +9,10 @@
 ## Aplicação Principal: GoBarber :haircut:
 Aplicação de agendamento de cortes de cabelo e serviços de beleza no geral utilizando NodeJS, React e React Native.
 
+- [Backend](https://github.com/icaroov/gostack-bootcamp/tree/master/backend)
+
 ## Aplicação Secundária: GymPoint 🏋
-Aplicação gerenciadora de academia.
+Aplicação gerenciadora de academia. [(Código)](https://github.com/icaroov/gostack-bootcamp/tree/master/gympoint)
 
 ## Desafios
 
@@ -21,10 +23,10 @@ Aplicação gerenciadora de academia.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icaroov/">
-    <img alt="GitHub" src=".github/github_logo.png" width="50px" />
+    <img alt="GitHub" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" width="50px" />
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/icaroov">
-    <img alt="LikedIn" src=".github/linkedin-logo.png" width="50px" />
+    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="50px" />
   </a>
 </p>

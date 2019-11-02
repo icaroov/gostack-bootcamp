@@ -7,7 +7,7 @@
   Situação: Em andamento.
 </h4>
 
-## Do que se trata? :question:
+## Do que se trata :page_facing_up:
 Consiste num app gerenciador de academia, onde administradores podem cadastrar estudantes e guardar suas informações de nome, email, peso e altura no banco de dados. O sistema vai ser implementado aos poucos durante todo o bootcamp. Pode sofrer atualizações.
 
 ## Ferramentas utilizadas :hammer:
@@ -33,10 +33,10 @@ Consiste num app gerenciador de academia, onde administradores podem cadastrar e
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icaroov/">
-    <img alt="GitHub" src=".github/github_logo.png" width="50px" />
+    <img alt="GitHub" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" width="50px" />
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/icaroov">
-    <img alt="LikedIn" src=".github/linkedin-logo.png" width="50px" />
+    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="50px" />
   </a>
 </p>
