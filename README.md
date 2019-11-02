@@ -23,10 +23,10 @@ Aplicação gerenciadora de academia. [(Código)](https://github.com/icaroov/gos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icaroov/">
-    <img alt="GitHub" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" width="50px" />
+    <img alt="GitHub" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" />
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/icaroov">
-    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="50px" />
+    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
   </a>
 </p>

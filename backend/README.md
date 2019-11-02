@@ -7,7 +7,7 @@ Criação da API do app GoBarber com NodeJS.
 - [Sucrase](https://github.com/alangpierce/sucrase): é um compilador mais rápido que o Babel. Nesse projeto específico utilizo apenas a ferramenta de import e export default;
 - [Nodemon](https://nodemon.io/): um utilitário que monitora qualquer alteração no código e reinicia automaticamente o servidor;
 - [ESLint](https://eslint.org/) + [Prettier](https://github.com/prettier/prettier-vscode) + EditorConfig: formatação e padronização de código;
-- Autenticação com [JWT](https://github.com/auth0/node-jsonwebtoken): resumidamente, é uma string de caracteres codificados que, caso cliente e servidor estejam sob HTTPS, permite que somente o servidor que conhece o "secret" possa ler o conteúdo do token, e assim confirmar a autenticidade do cliente. Além disso, esse token possui data de experição gerada pelo servidor;
+- [Autenticação com JWT](https://github.com/auth0/node-jsonwebtoken): resumidamente, é uma string de caracteres codificados que, caso cliente e servidor estejam sob HTTPS, permite que somente o servidor que conhece o "secret" possa ler o conteúdo do token, e assim confirmar a autenticidade do cliente. Além disso, esse token possui data de experição gerada pelo servidor;
 - [BcryptJS](https://www.npmjs.com/package/bcryptjs): é um método de criptografia do tipo hash para senhas;
 - [Sequelize](https://sequelize.org/)(PostgreSQL): ORM do NodeJS para banco de dados;
 - [Docker](https://www.docker.com/): é uma plataforma Open Source desenvolvida pela Google que facilita a criação e administração de ambientes isolados (containers);
@@ -25,10 +25,10 @@ Criação da API do app GoBarber com NodeJS.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icaroov/">
-    <img alt="GitHub" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" width="50px" />
+    <img alt="GitHub" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" />
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/icaroov">
-    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="50px" />
+    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
   </a>
 </p>
