@@ -33,10 +33,10 @@ Consiste num app gerenciador de academia, onde administradores podem cadastrar e
 
 <p align="center">
   <a href="https://www.linkedin.com/in/icaroov/">
-    <img alt="GitHub" width="32px" height="32px" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" />
+    <img alt="LikendIn" src="https://img.icons8.com/color/32/000000/linkedin-circled.png" />
   </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/icaroov">
-    <img alt="LikedIn" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
+    <img alt="GitHub" width="32px" height="32px" src="https://img.icons8.com/ios-glyphs/48/000000/github.png" />
   </a>
 </p>
